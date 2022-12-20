@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "422694756031",
+    "project_id": "orderfoodapp-fdba3",
+    "storage_bucket": "orderfoodapp-fdba3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422694756031:android:e434fe37b3859e083f300a",
+        "android_client_info": {
+          "package_name": "com.arvind.foodizone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "422694756031-u19n4cd86rcq8k195dadoc9847h5n4l6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwGO6bVW3C7ob-b3IwHLWxhUPeH1NLJ0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "422694756031-u19n4cd86rcq8k195dadoc9847h5n4l6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422694756031:android:344f3efb798404233f300a",
+        "android_client_info": {
+          "package_name": "com.example.orderfoodapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "422694756031-u19n4cd86rcq8k195dadoc9847h5n4l6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwGO6bVW3C7ob-b3IwHLWxhUPeH1NLJ0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "422694756031-u19n4cd86rcq8k195dadoc9847h5n4l6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
